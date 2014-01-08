@@ -13,7 +13,7 @@ Just copy the `citizen-dropplets` folder into the `templates` folder of your Dro
 
 ##Demo
 
-You can see Citizen in action ar [http://paszternak.net](paszternak.net).
+You can see Citizen in action at [http://paszternak.net](paszternak.net).
 
 ##License
 
