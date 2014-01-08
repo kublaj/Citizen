@@ -11,7 +11,7 @@ A simple template for Dropplets, the minimalist markdown blogging platform
 
 Just copy the `citizen-dropplets` folder into the `templates` folder of your Dropplets installation. You can now select Citizen at the Installed Templates section of your Dropplets admin bar.
 
-You can change profile.jpg beforehand to your image of choice.
+You can change `profile.jpg` beforehand to your image of choice.
 
 ##Demo
 
