@@ -15,7 +15,7 @@ You can change `profile.jpg` beforehand to your image of choice.
 
 ##Demo
 
-You can see Citizen in action at [http://paszternak.net](paszternak.net).
+You can see Citizen in action at [http://paszternak.me](paszternak.me).
 
 ##License
 
