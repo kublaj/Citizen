@@ -128,6 +128,38 @@ section#content article div.post-text {
 	min-width: 280px;
 }
 
+section#content article div.post-text h2 {
+	text-transform: uppercase;
+	font-size: 150%;
+	font-weight: 300;
+	margin: 0 0 20px 0;
+}
+
+section#content article div.post-text h3 {
+	text-transform: uppercase;
+	font-size: 125%;
+	font-weight: 300;
+	margin: 0 0 20px 0;
+}
+
+section#content article div.post-text h4 {
+	font-size: 125%;
+	font-weight: 300;
+	margin: 0 0 20px 0;
+}
+
+section#content article div.post-text h5 {
+	font-size: 100%;
+	font-weight: 700;
+	margin: 0 0 20px 0;
+}
+
+section#content article div.post-text h6 {
+	font-size: 100%;
+	font-weight: 400;
+	margin: 0 0 20px 0;
+}
+
 section#content article div.post-text p {
 	margin: 0 0 25px 0;
 }
