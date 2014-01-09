@@ -15,7 +15,7 @@ Just copy the `citizen-dropplets` folder into the `templates` folder of your Dro
 
 `profile.jpg` is no longer used, it has been replaced with Blog Twitter profile image. If you'd like to use a static image, head to `index.php` and in `line 22` replace
 
-`<?php echo get_twitter_profile_img($blog_twitter); ?>" />`
+`<img src="<?php echo get_twitter_profile_img($blog_twitter); ?>" />`
 
 with
 
