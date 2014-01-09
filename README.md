@@ -11,7 +11,15 @@ A simple template for Dropplets, the minimalist markdown blogging platform
 
 Just copy the `citizen-dropplets` folder into the `templates` folder of your Dropplets installation. You can now select Citizen at the Installed Templates section of your Dropplets admin bar.
 
-You can change `profile.jpg` beforehand to your image of choice.
+~~You can change `profile.jpg` beforehand to your image of choice.~~
+
+`profile.jpg` is no longer used, it has been replaced with Blog Twitter profile image. If you'd like to use a static image, head to `index.php` and in `line 22` replace
+
+`<?php echo get_twitter_profile_img($blog_twitter); ?>" />`
+
+with
+
+`<img src="<?php echo($template_dir_url); ?>profile.jpg" />`
 
 ##Demo
 
@@ -19,9 +27,9 @@ You can see Citizen in action at [paszternak.me](http://paszternak.me).
 
 ##ToDos
 
-- ~~style.css needs post headers' styles (h2-h6)~~
+- ~~style.css needs post headers' styles (h2-h6).~~
 - style.css needs some media queries to improve responsible view.
-- Blog Twitter profile image integration into the header instead of `profile.jpg`.
+- ~~Blog Twitter profile image integration into the header instead of `profile.jpg`.~~
 
 ##License
 
