@@ -17,6 +17,12 @@ You can change `profile.jpg` beforehand to your image of choice.
 
 You can see Citizen in action at [http://paszternak.me](paszternak.me).
 
+##ToDos
+
+- [X] style.css needs post headers' styles (h2-h6)
+- [ ] style.css needs some media queries to improve responsible view.
+- [ ] Blog Twitter profile image integration into the header instead of `profile.jpg`.
+
 ##License
 
 Citizen is licensed under the following MIT-style license.
