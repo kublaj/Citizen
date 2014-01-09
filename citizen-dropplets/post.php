@@ -15,7 +15,7 @@
 		<br />
 		<h3 class="profile"><span>Written by</span> <a href="http://twitter.com/<?php echo($post_author_twitter); ?>"><?php echo($post_author_twitter); ?></a></h3>
 		<p><?php echo($intro_text); ?></p>
-		<p><a class="button" href="https://twitter.com/intent/tweet?screen_name=<?php echo($post_author_twitter); ?>&text=Re:%20<?php echo($post_link); ?>%20" data-dnt="true">Comment on Twitter</a> // <a class="button" href="https://twitter.com/intent/tweet?text=&quot;<?php echo($post_title); ?>&quot;%20<?php echo($post_link); ?>%20via%20&#64;<?php echo($post_author_twitter); ?>" data-dnt="true">Share on Twitter</a></p>
+		<p><a class="button" href="https://twitter.com/intent/tweet?screen_name=<?php echo($post_author_twitter); ?>&text=Re:%20<?php echo($post_link); ?>%20" data-dnt="true">Comment on Twitter</a> // <a class="button" href="https://twitter.com/intent/tweet?text=&quot;<?php echo($post_title); ?>&quot;%20<?php echo($post_link); ?>%20via%20&#64;<?php echo($post_author_twitter); ?>" data-dnt="true">Share on Twitter</a> // <a class="button" href="mailto:<?php echo($blog_email); ?>">Reply via Email</a></p>
 	</div>
 	<div class="break"></div>
 </article>
