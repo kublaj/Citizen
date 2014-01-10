@@ -164,6 +164,10 @@ section#content article div.post-text p {
 	margin: 0 0 25px 0;
 }
 
+section#content article div.post-text p small {
+	font-size: 75%;
+}
+
 section#content article div.post-text blockquote {
 	margin: 0 0 0 45px;
 	font-style: italic;
