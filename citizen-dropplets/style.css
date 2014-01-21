@@ -90,7 +90,6 @@ section#content article header.post-header {
 	margin: 0 4% 25px 0;
 	float: left;
 	font-weight: 300;
-	min-width: 280px;
 }
 
 section#content article header.post-header h1 a {
@@ -234,4 +233,11 @@ ul.pagination a:hover, ul.pagination li.active a {
 
 h3.profile span {
 	text-transform: none;
+}
+
+@media all and (max-width: 799px) {
+	section#content article header.post-header,
+	section#content article div.post-text {
+		width: 100%;
+	}
 }
