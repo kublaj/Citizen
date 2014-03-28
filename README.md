@@ -24,7 +24,8 @@ with
 ##Demo
 
 ~~You can see Citizen in action at [paszternak.me](http://paszternak.me).~~
-There is currelntly no live demo for the theme, although I have plans to create a demo site.
+
+Currently there is no live demo for the theme, although I have plans to create one.
 
 ##ToDos
 
