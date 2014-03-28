@@ -23,7 +23,8 @@ with
 
 ##Demo
 
-You can see Citizen in action at [paszternak.me](http://paszternak.me).
+~~You can see Citizen in action at [paszternak.me](http://paszternak.me).~~
+There is currelntly no live demo for the theme, although I have plans to create a demo site.
 
 ##ToDos
 
@@ -31,6 +32,7 @@ You can see Citizen in action at [paszternak.me](http://paszternak.me).
 - ~~style.css needs some media queries to improve responsible view.~~
 - ~~Blog Twitter profile image integration into the header instead of `profile.jpg`.~~
 - Add Disqus snippet to `post.php`.
+- Create demo site to Citizen.
 
 ##License
 
