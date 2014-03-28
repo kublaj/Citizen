@@ -32,7 +32,7 @@ There is currelntly no live demo for the theme, although I have plans to create 
 - ~~style.css needs some media queries to improve responsible view.~~
 - ~~Blog Twitter profile image integration into the header instead of `profile.jpg`.~~
 - Add Disqus snippet to `post.php`.
-- Create demo site to Citizen.
+- Create demo site for Citizen.
 
 ##License
 
